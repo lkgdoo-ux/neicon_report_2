@@ -1,4 +1,10 @@
 streamlit
+sqlalchemy
+psycopg2-binary
 pandas
-openpyxl
 plotly
+reportlab
+facebook-business>=17.0.0
+google-ads>=24.0.0
+requests
+pyyaml
